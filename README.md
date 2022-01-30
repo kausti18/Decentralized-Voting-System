@@ -99,4 +99,4 @@ _Feel free to contribute._
 
 Best,
 
-[Bibek Aryal](https://arlbibek.github.io/)
+Kaustubh Patil
