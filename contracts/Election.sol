@@ -180,3 +180,4 @@ contract Election {
         return end;
     }
 }
+     
